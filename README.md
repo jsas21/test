@@ -5,4 +5,4 @@ This Script clones repositories and get delta period code or file changes from t
 ### Pre-requisites
 GIT installed in the system
 git.prop file which wil consist repository links so that script can clone the repository. See below image for example of a git prop file
-![alt text](images/test.png)
+[![N|Solid](images/test.png)
