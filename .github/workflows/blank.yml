@@ -32,5 +32,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Check spelling
-       uses: check-spelling/check-spelling@0.0.16-alpha
+        uses: check-spelling/check-spelling@0.0.16-alpha
 
