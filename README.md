@@ -1,6 +1,6 @@
 # Project Name
 
-### Description
+### Descriion
 This Script clones repositories and get delta period code or file changes from the repo and put in a pre-mentioned path.
 ### Pre-requisites
 GIT installed in the system
